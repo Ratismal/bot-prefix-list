@@ -15,4 +15,4 @@ This list was made to try and prevent the huge overlaps that we currently have w
 - `+` - haru#4269 (pyraxo#6185)
 
 ## Contributing
-Make a pull request, adding your own prefix to the list. Try not to overlap, but if you already have a public bot running on a prefix used by someone else, it's probably okay to overlap.
+Make a pull request, adding your own prefix to the list in alphabetical order (excluding the example). Try not to overlap, but if you already have a public bot running on a prefix used by someone else, it's probably okay to overlap.
