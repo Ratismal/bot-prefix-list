@@ -14,4 +14,4 @@ This list was made to try and prevent the huge overlaps that we currently have w
 - `example` - ExampleBot#1234 (Dean#9114), ExampleBot2#6969 (Clyde#0000)
 
 ## Contributing
-Make a pull request, adding your own prefix to the list. Try not to overlap, but if you have a public bot running on a default prefix used by someone else, it's probably okay to overlap.
+Make a pull request, adding your own prefix to the list. Try not to overlap, but if you already have a public bot running on a prefix used by someone else, it's probably okay to overlap.
