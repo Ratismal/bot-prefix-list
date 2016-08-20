@@ -12,9 +12,17 @@ This list was made to try and prevent the huge overlaps that we currently have w
 
 ## The list
 - `example` - ExampleBot#1234 (Dean#9114), ExampleBot2#6969 (Clyde#0000)
-- `+` - haru#4269 (pyraxo#6185)
-- `-midi` - MidiBot#8276 (TheBITLINK#3141)
 - `>` - PikaBot01#7552 (PikaDude#5386)
+- `!` - 35#5300 (Roadcrosser#3657)
+- `!?` - Grumpy Uncle#6918 (AnonymousDapper#7467)
+- `+` - haru#4269 (pyraxo#6185), 35#5300 (Roadcrosser#3657)
+- `＋` - 35#5300 (Roadcrosser#3657)
+- `​` - 35#5300 (Roadcrosser#3657)
+- `?=` - VOLT#7078 (Aurieh#8140)
+- `>=` - voltexp#9065 (Aurieh#8140)
+- `?` - HAL 9000#4440, HAL Testbed#7388 (Serena#5960)
+- `-midi` - MidiBot#8276 (TheBITLINK#3141)
+- `snake` - snake#0555 (AnonymousDapper#7467)
 
 ## Contributing
 Make a pull request, adding your own prefix to the list in alphabetical order (excluding the example). Try not to overlap, but if you already have a public bot running on a prefix used by someone else, it's probably okay to overlap.
