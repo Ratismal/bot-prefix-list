@@ -12,6 +12,7 @@ This list was made to try and prevent the huge overlaps that we currently have w
 
 ## The list
 - `example` - ExampleBot#1234 (Dean#9114), ExampleBot2#6969 (Clyde#0000)
+- `_` - Gus#0291 (Gus#0291)
 - `>` - PikaBot01#7552 (PikaDude#5386)
 - `!` - 35#5300 (Roadcrosser#3657)
 - `!?` - Grumpy Uncle#6918 (AnonymousDapper#7467)
