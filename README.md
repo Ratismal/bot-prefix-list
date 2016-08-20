@@ -8,7 +8,7 @@ A public list of claimed Discord bot prefixes for new bot creators to consult be
 ## Why?
 [Well...](https://camo.githubusercontent.com/5e22ed62512ab888944791ca572cf9ba2ec27262/687474703a2f2f692e696d6775722e636f6d2f476762425650532e676966 "wake me up")
 
-This list was made to try and prevent the huge overlaps that we currently have with bot prefixes. If you're make a new bot, it might pay to check this list first.
+This list was made to try and prevent the huge overlaps that we currently have with bot prefixes. If you're making a new bot, it might pay to check this list first.
 
 ## The list
 - `example` - ExampleBot#1234 (Dean#9114), ExampleBot2#6969 (Clyde#0000)
