@@ -13,6 +13,7 @@ This list was made to try and prevent the huge overlaps that we currently have w
 ## The list
 - `blargbot` - blargbot#0128 (stupid cat#8160)
 - `example` - ExampleBot#1234 (Dean#9114), ExampleBot2#6969 (Clyde#0000)
+- `:?` - AmariBot#5150 (Litochee#5162)
 - `_` - Gus#0291 (Gus#0291)
 - `>` - PikaBot01#7552 (PikaDude#5386)
 - `!` - 35#5300 (Roadcrosser#3657), blargbot#0128 (stupid cat#8160)
