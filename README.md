@@ -26,6 +26,7 @@ This list was made to try and prevent the huge overlaps that we currently have w
 - `-midi` - MidiBot#8276 (TheBITLINK#3141)
 - `snake` - snake#0555 (AnonymousDapper#7467)
 - `api!` - APIcord#1474 (LT#5266)
+- `zt-`  - ZeroTwo#4452 (Connor.#0800)
 
 ## Contributing
 Make a pull request, adding your own prefix to the list in alphabetical order (excluding the example). Try not to overlap, but if you already have a public bot running on a prefix used by someone else, it's probably okay to overlap.
